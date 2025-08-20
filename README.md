@@ -22,7 +22,7 @@ Analytics & Reporting: Creating SQL-based reports and dashboards for actionable 
 
 **This repository is an excellent resource for professionals and students looking to showcase expertise in:**************
 
-**SQL Development
+**SQL Development	
 Data Architect
 Data Engineering
 ETL Pipeline Developer
